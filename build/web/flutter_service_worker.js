@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "39ecfd3a0ad19193b63e21e61e446a4e",
+const RESOURCES = {"flutter_bootstrap.js": "222def3787d3274151110a877342e04c",
 "version.json": "15235b5108d6a877ef74fe3317a96bf7",
-"index.html": "7146bd9756e4b7ba14ced6f5700675b8",
-"/": "7146bd9756e4b7ba14ced6f5700675b8",
+"index.html": "1815efef17997239553123522efd279d",
+"/": "1815efef17997239553123522efd279d",
 "main.dart.js": "52501dd1fce00fff49b439b1470caa7f",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -51,7 +51,7 @@ const RESOURCES = {"flutter_bootstrap.js": "39ecfd3a0ad19193b63e21e61e446a4e",
 "assets/assets/sounds/hl.mp3": "36b99e2bf64d8bd06348f66aafae9970",
 "assets/assets/sounds/click.wav": "cda24e9048eebf14cf00c2923c192a67",
 "assets/assets/sounds/frequestion.mp3": "de8f936d13e6a42daa79ae4a5a73fa7b",
-"assets/assets/sounds/cfbothello.mp3": "77790459607a960a0cbe7052abc5d934",
+"assets/assets/sounds/cfbothello.mp3": "28abc81867bf98e67bf0cf1f3c581325",
 "assets/assets/sounds/chronos.mp3": "794961a71d0d2a23cbfc5452c6afec7f",
 "assets/assets/sounds/sme.mp3": "95d84509153dfc10af8e50d98f2c06dd",
 "assets/assets/animations/menubot.json": "6ed1f2ea24de6e040a224ff2ab8d3986",
